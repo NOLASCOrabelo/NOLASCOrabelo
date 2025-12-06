@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Whenever creating projects for my carrer<br>📚 I'm currently learning data base and cibersecurity<br>🎯 Goals: ...<br>🎲 Fun fact: I am Christian.</p>
+<p align="left">✨ Whenever creating projects for my carrer<br>📚 I'm currently learning data analycs <br>🎯 Goals: ...<br>🎲 Fun fact: I am Christian.</p>
 
 ###
 
