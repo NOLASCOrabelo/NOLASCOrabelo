@@ -1,4 +1,4 @@
-<h1 align="left">print(Hello Word)👋</h1>
+<h1 align="left">print(Hello World)👋</h1>
 
 ###
 
