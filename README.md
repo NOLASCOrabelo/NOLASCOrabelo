@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/142848619428720673.jpg" alt="Stealth Banner" width="800">
   
   <p align="center">
-    <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=ghostery&logoColor=fff" alt="Shadows">
-    <img src="https://img.shields.io/github/followers/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=eyeem&logoColor=fff" alt="Observers">
+    <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=github&logoColor=fff" alt="Shadows">
+    <img src="https://img.shields.io/github/followers/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=github&logoColor=fff" alt="Observers">
   </p>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/eye-close.svg" width="25"> OPERATIVE PROFILE
+### 👁️ OPERATIVE PROFILE
 
 **ID: Thiago // Codename: Nolasco**
 
@@ -20,7 +20,7 @@ Expert in **Data Reconnaissance** and **Digital Intelligence**. I specialize in 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/terminal.svg" width="25"> CLASSIFIED PROJECTS
+### 💻 CLASSIFIED PROJECTS
 
 - **[Index-Reddit](https://github.com/NOLASCOrabelo/Index-Reddit)**  
   *Extraction and indexing of public intelligence from Reddit nodes.*
@@ -33,7 +33,7 @@ Expert in **Data Reconnaissance** and **Digital Intelligence**. I specialize in 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/link.svg" width="25"> SECURE CHANNELS
+### 🔗 SECURE CHANNELS
 
 <p align="center">
   <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/INTEL-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
@@ -42,7 +42,7 @@ Expert in **Data Reconnaissance** and **Digital Intelligence**. I specialize in 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/database.svg" width="25"> ACTIVITY LOG
+### 📊 ACTIVITY LOG
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NOLASCOrabelo&show_icons=true&theme=dark&bg_color=000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" alt="Intel Stats">
