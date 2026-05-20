@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/banner.png" alt="Thiago Banner" width="800">
+  <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/142848619428720673.jpg" alt="Thiago Banner" width="800">
   
   <p align="center">
     <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=333" alt="Stars">
@@ -34,8 +34,7 @@ I'm a Data Analytics student from Brazil with a passion for transforming raw dat
 
 <p align="center">
   <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://www.linkedin.com/in/thiagonolasco/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/rabelo-silva-19599a256/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
