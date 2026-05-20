@@ -1,54 +1,57 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/142848619428720673.jpg" alt="Thiago Banner" width="800">
+  <!-- BANNER: Substitua 'banner.png' pelo nome da sua imagem de espião/stealth -->
+  <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/142848619428720673.jpg" alt="Stealth Banner" width="800">
   
   <p align="center">
-    <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=333" alt="Stars">
-    <img src="https://img.shields.io/github/followers/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=333" alt="Followers">
+    <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=ghostery&logoColor=fff" alt="Shadows">
+    <img src="https://img.shields.io/github/followers/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=222&logo=eyeem&logoColor=fff" alt="Observers">
   </p>
 </div>
 
 ---
 
-### 🧠 Know About Me
+### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/eye-close.svg" width="25"> OPERATIVE PROFILE
 
-**Hey there! I'm Thiago**
+**ID: Thiago // Codename: Nolasco**
 
-I'm a Data Analytics student from Brazil with a passion for transforming raw data into meaningful insights. Just like a well-optimized query, I strive for efficiency and clarity in everything I build. By day, I'm diving deep into SQL and Python; by night, I'm automating the world one script at a time.
+Expert in **Data Reconnaissance** and **Digital Intelligence**. I specialize in infiltrating complex datasets to extract high-value insights. My operations are focused on efficiency, automation, and staying below the radar. 
+
+> *"Moving in the shadows of the data layer."*
 
 ---
 
-### 🚀 Top Projects (Built to solve real problems)
+### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/terminal.svg" width="25"> CLASSIFIED PROJECTS
 
 - **[Index-Reddit](https://github.com/NOLASCOrabelo/Index-Reddit)**  
-  *A sophisticated tool for indexing and analyzing Reddit data, focusing on efficient retrieval and processing.*
+  *Extraction and indexing of public intelligence from Reddit nodes.*
   
 - **[Scanmac Mercuri](https://github.com/NOLASCOrabelo/scanmac_mercuri)**  
-  *Network scanning and management utility designed for precision and speed.*
+  *Network surveillance and node discovery utility.*
   
 - **[Price Monitor](https://github.com/NOLASCOrabelo/Monitoramento-de-Pre-os-de-Concorrentes-Varejo-E-commerce-)**  
-  *Automated web scraping solution for retail price monitoring and competitor analysis.*
+  *Autonomous scraping agent for market competitive intelligence.*
 
 ---
 
-### 🌐 Connect
+### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/link.svg" width="25"> SECURE CHANNELS
 
 <p align="center">
-  <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://www.linkedin.com/in/rabelo-silva-19599a256/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/INTEL-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <a href="https://www.linkedin.com/in/rabelo-silva-19599a256/"><img src="https://img.shields.io/badge/NETWORK-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-### 📊 Contribution
+### <img src="https://raw.githubusercontent.com/mqyqingyuan/mqyqingyuan/master/icons/database.svg" width="25"> ACTIVITY LOG
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOLASCOrabelo&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NOLASCOrabelo&show_icons=true&theme=dark&bg_color=000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" alt="Intel Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOLASCOrabelo&theme=dark&background=0d1117&fire=ffffff&ring=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOLASCOrabelo&theme=dark&background=000&fire=ffffff&ring=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Shadow Streak">
 </div>
 
 ---
 
 <p align="center">
-  <i>"Code is never finished. It only becomes slightly less terrible over time."</i>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square&color=222&labelColor=000" alt="Status">
 </p>
