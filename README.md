@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/1375178.png" alt="Thiago Banner" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=THIAGO%20NOLASCO&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Network%20Security%20%7C%20SIEM%20Specialist&descAlignY=55&descSize=18" alt="Cybersecurity Banner">
   
   <p align="center">
     <img src="https://img.shields.io/github/stars/NOLASCOrabelo?style=for-the-badge&color=000&labelColor=333" alt="Stars">
@@ -9,7 +9,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/user.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> OPERATIVE PROFILE
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/shield.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> OPERATIVE PROFILE
 
 **ID: Thiago // Codename: Nolasco**
 
@@ -19,7 +19,7 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/flag.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/monitor.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
 
 - **[Index-Reddit](https://github.com/NOLASCOrabelo/Index-Reddit)**  
   *Extraction and indexing of public intelligence from Reddit nodes.*
@@ -32,7 +32,7 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/link.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> SECURE CHANNELS
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/wifi.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> SECURE CHANNELS
 
 <p align="center">
   <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/INTEL-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
@@ -41,7 +41,7 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/database.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> ACTIVITY LOG
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/activity.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> ACTIVITY LOG
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NOLASCOrabelo&show_icons=true&theme=dark&bg_color=000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" alt="Intel Stats">
