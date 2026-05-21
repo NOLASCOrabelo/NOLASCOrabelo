@@ -19,16 +19,16 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/monitor.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/search.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
 
-- **[Index-Reddit](https://github.com/NOLASCOrabelo/Index-Reddit)**  
-  *Extraction and indexing of public intelligence from Reddit nodes.*
+📁 **SOC-LAB-V1**  
+  *Creation of a home monitoring environment using Elastic Stack / Wazuh.*
   
-- **[Scanmac Mercuri](https://github.com/NOLASCOrabelo/scanmac_mercuri)**  
-  *Network surveillance and node discovery utility.*
+📁 **LOG-PARSER**  
+  *Python script that automated the cleanup of useless firewall logs so I don't lose my sanity.*
   
-- **[Price Monitor](https://github.com/NOLASCOrabelo/Monitoramento-de-Pre-os-de-Concorrentes-Varejo-E-commerce-)**  
-  *Autonomous scraping agent for market competitive intelligence.*
+📁 **MALWARE-ANALYSIS**  
+  *Reports of suspicious artifact analysis created in controlled environment.*
 
 ---
 
@@ -53,4 +53,10 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square&color=222&labelColor=000" alt="Status">
+</p>
+
+---
+
+<p align="center">
+  <i>"There are two types of companies: those that have been hacked, and those that don't know they've been hacked."</i>
 </p>
