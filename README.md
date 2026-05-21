@@ -9,7 +9,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/shield.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> OPERATIVE PROFILE
+### <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cute_branding_ideas_with_cute_cat_font-removebg-preview.png" width="25"> OPERATIVE PROFILE
 
 **ID: Thiago // Codename: Nolasco**
 
@@ -19,7 +19,7 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/search.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
+### <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cyborg-removebg-preview.png" width="25"> CLASSIFIED PROJECTS
 
 📁 **SOC-LAB-V1**  
   *Creation of a home monitoring environment using Elastic Stack / Wazuh.*
