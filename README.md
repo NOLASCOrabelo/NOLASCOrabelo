@@ -9,17 +9,17 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/eye.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> OPERATIVE PROFILE
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/user.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> OPERATIVE PROFILE
 
 **ID: Thiago // Codename: Nolasco**
 
-Expert in **Data Reconnaissance** and **Digital Intelligence**. I specialize in infiltrating complex datasets to extract high-value insights. My operations are focused on efficiency, automation, and staying below the radar. 
+I'm studying and diving deeper into SOC, computer networks, and during my lunch break I learn about Docker. When I'm not studying, I'm playing MLBB.
 
 > *"Moving in the shadows of the data layer."*
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
+### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/flag.svg" width="25" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> CLASSIFIED PROJECTS
 
 - **[Index-Reddit](https://github.com/NOLASCOrabelo/Index-Reddit)**  
   *Extraction and indexing of public intelligence from Reddit nodes.*
