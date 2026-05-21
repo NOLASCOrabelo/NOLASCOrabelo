@@ -55,7 +55,11 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 <br>
 
 <div align="center">
-<p align="center"><img src="https://github.com/NOLASCOrabelo/NOLASCOrabelo/blob/output/github-snake-dark.svg" width="100%"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/output/github-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/output/github-snake-dark.svg">
+</picture>
 </div>
 
 <br><br>
