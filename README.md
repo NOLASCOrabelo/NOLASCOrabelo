@@ -9,30 +9,44 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cute_branding_ideas_with_cute_cat_font-removebg-preview.png" width="25"> OPERATIVE PROFILE
+## 🛠️ OPERATIVE PROFILE
 
-**ID: Thiago // Codename: Nolasco**
-
-I'm studying and diving deeper into SOC, computer networks, and during my lunch break I learn about Docker. When I'm not studying, I'm playing MLBB.
-
-> *"Moving in the shadows of the data layer."*
-
----
-
-### <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cyborg-removebg-preview.png" width="25"> CLASSIFIED PROJECTS
-
-📁 **SOC-LAB-V1**  
-  *Creation of a home monitoring environment using Elastic Stack / Wazuh.*
-  
-📁 **LOG-PARSER**  
-  *Python script that automated the cleanup of useless firewall logs so I don't lose my sanity.*
-  
-📁 **MALWARE-ANALYSIS**  
-  *Reports of suspicious artifact analysis created in controlled environment.*
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>ID: Thiago // Codename: Nolasco</h3>
+      <p>I'm studying and diving deeper into SOC, computer networks, and during my lunch break I learn about Docker. When I'm not studying, I'm playing MLBB.</p>
+      <blockquote><i>"Moving in the shadows of the data layer."</i></blockquote>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cute_branding_ideas_with_cute_cat_font-removebg-preview.png" width="180" alt="Profile Mascot">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/wifi.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> SECURE CHANNELS
+## 📁 CLASSIFIED PROJECTS
+
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <p><b>📁 SOC-LAB-V1</b><br>
+      <i>Creation of a home monitoring environment using Elastic Stack / Wazuh.</i></p>
+      <p><b>📁 LOG-PARSER</b><br>
+      <i>Python script that automated the cleanup of useless firewall logs so I don't lose my sanity.</i></p>
+      <p><b>📁 MALWARE-ANALYSIS</b><br>
+      <i>Reports of suspicious artifact analysis created in controlled environment.</i></p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/NOLASCOrabelo/NOLASCOrabelo/main/Cyborg-removebg-preview.png" width="160" alt="Cyborg Hand">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 SECURE CHANNELS
 
 <p align="center">
   <a href="https://github.com/NOLASCOrabelo"><img src="https://img.shields.io/badge/INTEL-000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
@@ -41,11 +55,11 @@ I'm studying and diving deeper into SOC, computer networks, and during my lunch 
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/activity.svg" width="25" style="filter: brightness(0) saturate(100%) invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> ACTIVITY LOG
+## 📊 ACTIVITY LOG
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NOLASCOrabelo&show_icons=true&theme=dark&bg_color=000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" alt="Intel Stats">
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOLASCOrabelo&theme=dark&background=000&fire=ffffff&ring=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Shadow Streak">
 </div>
 
